@@ -1,0 +1,17 @@
+.PokeDex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+
+.PokeDex-card-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    min-height: 600px;  
+    width: 800px;
+    background-color: crimson;
+}
